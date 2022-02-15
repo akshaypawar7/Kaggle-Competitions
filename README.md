@@ -1,1 +1,1 @@
-# NSE-Stock-Market-Data
+# Kaggle competitions
